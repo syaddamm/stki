@@ -1,0 +1,9 @@
+
+<div class="jdl-detail"><h1>
+</h1></div>
+
+<div class="date-detail">
+</div>
+
+<div class="content-detail">
+</div>
